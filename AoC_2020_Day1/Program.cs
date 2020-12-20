@@ -31,7 +31,7 @@ namespace AoC_2020_Day1
      */
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var inputs = (File.ReadAllText("Inputs.txt")).Split("\r\n");
             var currentIndex = 0;
